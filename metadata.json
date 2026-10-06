@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Tributario SENA - Gestión Contable y Tributaria",
+  "description": "Herramienta pedagógica y liquidador tributario colombiano para aprendices SENA: Renta Jurídica (110), Renta Natural (210), IVA (300), Retefuente (350), Impoconsumo (310) y Patrimonio (420) a partir de movimientos contables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
